@@ -1,5 +1,5 @@
 <div align="center">
-# <img src="https://fins.institute.ufl.edu/wp-content/uploads/sites/161/2022/11/ai-in-math.png" alt="Coding" style="width: 50%;">
+ <img src="https://fins.institute.ufl.edu/wp-content/uploads/sites/161/2022/11/ai-in-math.png" alt="Coding" style="width: 50%;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Dr. Ghaith Chaabane</h1>
